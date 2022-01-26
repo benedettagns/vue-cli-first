@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>La mia prima app con Vue CLI!</h1>
+        <h1 class="title">La mia prima app con Vue CLI!</h1>
     </div>
 </template>
 
@@ -11,7 +11,7 @@ export default {
 </script>
 
 <style>
-    h1 {
+    .title {
         text-align: center;
         font-family: Arial, Helvetica, sans-serif;
         font-style: oblique;
